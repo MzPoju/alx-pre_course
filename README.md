@@ -1,3 +1,3 @@
-[main 839d1bf] My favourite commit
- 1 file changed, 1 insertion(+), 1 deletion(-)
+My favourite commit
 Update README.md fpr the next assignment
+I made this commit via Github
